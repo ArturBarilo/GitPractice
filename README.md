@@ -1,3 +1,1 @@
-# GitPractice
-
-Test
+Last commit from 'main'
